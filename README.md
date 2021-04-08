@@ -3,7 +3,7 @@
 Meu nome é Nicolas Gabriel, moro em uma pequena cidade chamada Elói Mendes e sou um desenvolvedor de aplicações móveis e um apaixonado por React e React-Native :heart:
 
 ~~~javascript
-import React from 'react
+import React from 'react'
 import { Text, View } from 'react-native'
 
 export default function App() {
