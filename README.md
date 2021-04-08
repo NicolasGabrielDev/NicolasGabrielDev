@@ -3,9 +3,16 @@
 Meu nome é Nicolas Gabriel, moro em uma pequena cidade chamada Elói Mendes e sou um desenvolvedor de aplicações móveis e um apaixonado por React e React-Native :heart:
 
 ~~~javascript
-return (
-  <Text>Minimalismo é vida!</Text>
-)
+import React from 'react
+import { Text, View } from 'react-native'
+
+export default function App() {
+    return (
+        <View style={{ flex: 1, justifyContent: 'center', alignItens: 'center' }}>
+            <Text>Minimalismo é vida!</Text>
+        </View>
+    )
+}
 ~~~
 
 <!--
