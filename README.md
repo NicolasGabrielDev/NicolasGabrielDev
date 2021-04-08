@@ -2,6 +2,12 @@
 
 Meu nome é Nicolas Gabriel, moro em uma pequena cidade chamada Elói Mendes e sou um desenvolvedor de aplicações móveis e um apaixonado por React e React-Native :heart:
 
+~~~javascript
+return (
+  <Text>Minimalismo é vida!</Text>
+)
+~~~
+
 <!--
 **NicolasGabrielDev/NicolasGabrielDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
